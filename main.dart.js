@@ -33078,7 +33078,7 @@ r=B.f.i(n.gm_())
 q=t.F
 p=n.d
 o=A.a4(p).j("ah<1,dv>")
-return new A.qM(new A.nA(B.I7,new A.EK(m,m,1/0,56),m),A.a2L(A.a([B.Ek,s,B.tI,A.rf("N\xfamero Sorteado: "+r,B.Gg),B.tI,A.a0E(A.a([A.wV(B.I8,n.gFA()),A.wV(B.I6,n.gSc()),A.wV(B.I9,n.gGG())],q),B.bV,B.nS,B.ds),B.Ej,new A.B8(B.Jd,A.a3(new A.ah(p,new A.U7(),o),!0,o.j("aW.E")),m)],q),B.bV,B.fj,B.ds),m)}}
+return new A.qM(new A.nA(B.I7,new A.EK(m,m,1/0,56),m),A.a2L(A.a([B.Ej,s,B.tI,A.rf("N\xfamero Sorteado: "+r,B.Gg),B.tI,A.a0E(A.a([A.wV(B.I8,n.gFA()),A.wV(B.I6,n.gSc()),A.wV(B.I9,n.gGG())],q),B.bV,B.nS,B.ds),B.Ek,new A.B8(B.Jd,A.a3(new A.ah(p,new A.U7(),o),!0,o.j("aW.E")),m)],q),B.bV,B.fj,B.ds),m)}}
 A.Ub.prototype={
 $1(a){return!B.b.p(this.a.d,a)},
 $S:14}
@@ -56655,9 +56655,9 @@ B.Ec=new A.a1(B.ca,!0,!0,!1,!1)
 B.Ef=new A.M(1e5,1e5)
 B.tH=new A.M(32,4)
 B.fP=new A.iz(0,0,null,null)
-B.Ej=new A.iz(null,180,null,null)
-B.Ek=new A.iz(null,20,null,null)
+B.Ej=new A.iz(null,20,null,null)
 B.tI=new A.iz(null,30,null,null)
+B.Ek=new A.iz(null,50,null,null)
 B.El=new A.r3(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Kt=new A.r4(3,"hide")
 B.Em=new A.r4(5,"timeout")
@@ -56701,7 +56701,7 @@ B.EE=new A.Si(1,"double")
 B.Fb=new A.l(!0,B.we,null,"monospace",null,null,48,B.iA,null,null,null,null,null,null,null,null,null,B.EF,B.wP,B.EE,null,"fallback style; consider putting your text in a Material",null,null,null,null)
 B.Gg=new A.l(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GP=new A.l(!0,B.h,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.GO=new A.l(!0,B.h,null,null,null,null,90,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.GO=new A.l(!0,B.h,null,null,null,null,120,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.H_=new A.l(!0,null,null,null,null,null,null,B.iz,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.F3=new A.l(!0,B.r,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity displayLarge",null,null,null,null)
 B.Fv=new A.l(!0,B.r,null,".AppleSystemUIFont",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackRedwoodCity displayMedium",null,null,null,null)
